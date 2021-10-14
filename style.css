@@ -1,8 +1,12 @@
-body {
+* {
     margin: 0;
     padding: 0;
+}
+
+body {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
+    font-size: 14pt;
+    line-height: 1.7;
 }
 
 body div.header {
@@ -13,3 +17,5 @@ body div.header {
     text-transform: uppercase;
     width: 100%;
 }
+
+body div.container {padding: 80px; text-align: justify;}
