@@ -11,6 +11,7 @@ body {
 
 body div.header {
     background-color: black;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
     color: white;
     position: fixed;
     text-align: center;
@@ -19,6 +20,7 @@ body div.header {
 }
 
 body div.container {padding: 80px; text-align: justify;}
+body div.content {box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);padding: 20px;}
 
 body div.footer {
     text-align: center;
