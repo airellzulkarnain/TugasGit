@@ -10,7 +10,7 @@ body {
 }
 
 body div.header {
-    background-color: black;
+    background-color: #212121;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
     color: white;
     position: fixed;
@@ -25,7 +25,7 @@ body div.content {box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);padding: 20px;text-
 body div.footer {
     text-align: center;
     height: 200px;
-    background-color: #000;
+    background-color: #212121;
     color: #fff;
     width: 100%;
     line-height: 200px;
